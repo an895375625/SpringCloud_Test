@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 
 @SpringBootApplication
-//测试branch
+//测试
 public class TestGateway {
     public static void main(String[] args) {
         SpringApplication.run(TestGateway.class);
